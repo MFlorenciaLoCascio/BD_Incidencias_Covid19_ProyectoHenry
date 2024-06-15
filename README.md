@@ -1,4 +1,5 @@
-# 🌐 **Expansión de Laboratorios y Centros de Vacunación - Farmaceutica Biogenesys** 
+# 🌐 **Expansión de Laboratorios y Centros de Vacunación 
+# Farmaceutica Biogenesys** 
 
 ## 🎯Objetivo: 
 Identificar ubicaciones estratégicas óptimas para la expansión de laboratorios y centros de vacunación a la Farmacéutica Biogenesys en Argentina, Chile, Colombia, México, Perú y Brasil. Basado en la incidencia de COVID-19.
@@ -8,15 +9,26 @@ Identificar ubicaciones estratégicas óptimas para la expansión de laboratorio
 1. Visual Studio Code:
 2. Python
 3. Librerias: NumPy, Pandas, Matplotlib, Seaborn, Geopandas
-4. Power Bi Desktop
+`import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import geopandas as gpd`
 
-- Debe descargarse los siguientes arhivos para poder ejecutar los scripts en pyhton:
+5. Power Bi Desktop
+
+__Debe descargarse los siguientes arhivos para poder ejecutar los scripts en pyhton:__
+  
 _Dataset original_: [data_latinoamerica](https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view)
 _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/DatosFinalesFiltradoNuevo.csv)
 
 ## 🗂️ Desarrollo del Proyecto
 
-### Carga y transformación de datos
+### *Python / Jupyter Notebook*
+
+[**Archivo Scripts de Python/JN**](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/Python_Biogenesys_Lo_Cascio_Maria_Florencia.ipynb)
+
+### 1. Carga y transformación de datos 
 
 + Extracción de base de datos _Dataset original_
   
@@ -42,26 +54,33 @@ _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorencia
   + columnasconvalores nulos los lleve a 0
   + cambié un valor atípico con el valor más cercano a esa fecha
 
-+ Guardadodearchivo: .CSV filtrado
++ Guardadodearchivo: DatosFinalesFiltradoNuevo
 
-### Análisis Exploratorio y Visualización
+### 2. Análisis Exploratorio y Visualización
 
 + Importarlibrerías:
   + numpy,pandas,matplotlib y seaborn
   + Cargadeldataset: en formato .CSV
   + Visualizaciones de datos con matplotlib y seaborn
 
-### EDA con Numpy y Pandas
+### 3. EDA con Numpy y Pandas
 
 + Importarlibrerías:
   + numpy, pandas, matplotlib, seaborn, geopandas
 
-+ Carga del dataset: en formato .CSV
++ Carga del dataset: DatosFinalesFiltradoNuevo
   
 + Análisis exploratorio detallado utilizando técnicas avanzadas con Numpy y Pandas
 
+### **Power Bi*
 
-## 📊 EDA e Insights:
+1. Importar archivo DatosFinalesFiltradoNuevo 
+2. Crear medidas DAX
+3. Diseñar un dashboard interactivo aplicando storytelling
+4. Obtener insights significativos para determinar la ubicación óptima de expansión.
+
+
+## 📊 EDA e Insights Generales:
 
 ### 1- Chile:
 
@@ -104,4 +123,22 @@ _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorencia
 - __Inversión en Salud:__ Baja proporción de médicos y enfermeras.
 - __Densidad y habitantes:__ Población urbana creciente.
 - __Problemas Sociales y Económicos:__ Desafíos económicos y sociales
+
+## 📈 Conclusiones sobre el Objetivo:
+
+## Insights sobre la oportunidad de *Expansión en México*:
+
+## Recomendaciones para la *Expansión en México*
+
+## 📝 Informe: 
+Aquí puede encontrar información más a detalle sobre el proyecto:
+
+[Informe Expansión Biogenesys](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/Informe_Biogenesys_Lo_Cascio_Maria_Florencia.pdf)
+
+## ⚙️ Herramientas utilizadas:
+
+
+
+
+
 
