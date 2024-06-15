@@ -1,6 +1,5 @@
 <center>
-<h1> 🌐Expansión de Laboratorios y Centros de Vacunación 
-Farmaceutica Biogenesys 🔬 </h1>
+<h1> 🌐Estudio de Investigación para la Expansión de Laboratorios y Centros de Vacunación - Farmaceutica Biogenesys 🔬 </h1>
 </center>
 
 ## 🎯Objetivo: 
@@ -21,7 +20,7 @@ _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorencia
 
 ## 🗂️ Desarrollo del Proyecto
 
-### *Python / Jupyter Notebook*
+### Python / Jupyter Notebook
 
 [**Archivo Scripts de Python/JN**](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/Python_Biogenesys_Lo_Cascio_Maria_Florencia.ipynb)
 
@@ -89,14 +88,15 @@ import geopandas as gpd
   
 + Análisis exploratorio detallado utilizando técnicas avanzadas con Numpy y Pandas
 
-### **Power Bi*
+### *Power Bi*
+
+Aquí puede ingresar a ver el [Dashboard_Biogenesys](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/Dashboard_Biogenesys_Lo_Cascio_Maria_Florencia.pbix)
 
 1. Importar archivo `DatosFinalesFiltradoNuevo`
 2. Crear tabla calendario
 3. Desarrollar medidas DAX
 4. Diseñar un dashboard interactivo aplicando storytelling
-5. Obtener insights significativos para determinar la ubicación óptima de expansión de laboratorios y centros de vacunación
-
+5. Obtener insights significativos para determinar la ubicación óptima de expansión de laboratorios y centros de vacunación para la farmaceutica
 
 ## 📊 EDA e Insights Generales:
 
@@ -144,14 +144,13 @@ import geopandas as gpd
 
 ## 📈 Conclusiones sobre el Objetivo:
 
- Considerando aspectos críticos como la demanda de vacunas, infraestructura sanitaria, factores socioeconómicos y factores de riesgo, México es el país adecuado para que Biogenesys pueda establecer una 
- resencia sólida para la expansión de laboratorios y centros de vacunación, especialmente en áreas urbanas densamente pobladas. 
+<p>Considerando aspectos críticos como la demanda de vacunas, infraestructura sanitaria, factores socioeconómicos y factores de riesgo, México es el país adecuado para que Biogenesys pueda establecer una resencia sólida para la expansión de laboratorios y centros de vacunación, especialmente en áreas urbanas densamente pobladas.</p>
  
- Requiere inversiones en campañas de vacunación y mejoras en infraestructura médica para combatir el COVID-19 o futuras enfermedades que aseguran una demanda constante de servicios de salud.
+<p>Requiere inversiones en campañas de vacunación y mejoras en infraestructura médica para combatir el COVID-19 o futuras enfermedades que aseguran una demanda constante de servicios de salud.</p>
 
 ## 💉 Insights sobre la oportunidad de *Expansión en México*:
 
-1. **Factores Socioeconómicos:** Con un GDP per cápita de 9.900 USD, __México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria.__ Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.
+<p>1. **Factores Socioeconómicos:** Con un GDP per cápita de 9.900 USD, __México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria.__ Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.
    
 3. **Infraestructura Sanitaria:** Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la __necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias.__
    
@@ -161,7 +160,7 @@ import geopandas as gpd
    
 9. **Factores De Riesgo:** México tiene una __prevalencia significativa de diabetes y fumadores.__ Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.
 
-11. **Densidad y Habitantes: Gran población urbana __facilita la logística de distribución__ eficiente de suministros médicos y vacunas.
+11. **Densidad y Habitantes:** Gran población urbana __facilita la logística de distribución__ eficiente de suministros médicos y vacunas.</p>
 
 ## 🌍 Recomendaciones para la *Expansión en México*
 
