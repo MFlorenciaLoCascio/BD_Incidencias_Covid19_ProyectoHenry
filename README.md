@@ -16,6 +16,7 @@
 __Debe descargarse los siguientes arhivos para poder ejecutar los scripts en pyhton:__
   
 _Dataset original_: [data_latinoamerica](https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view)
+
 _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/DatosFinalesFiltradoNuevo.csv)
 
 ## 🗂️ Desarrollo del Proyecto
@@ -150,17 +151,17 @@ Aquí puede ingresar a ver el [Dashboard_Biogenesys](https://github.com/MFlorenc
 
 ## 💉 Insights sobre la oportunidad de *Expansión en México*:
 
-<p>1. __Factores Socioeconómicos:__ Con un GDP per cápita de 9.900 USD, México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria. Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.</p>
+<p> - __Factores Socioeconómicos:__ Con un GDP per cápita de 9.900 USD, México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria. Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.</p>
    
-</p>3. __Infraestructura Sanitaria:__ Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la __necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias. </p>
+</p> - __Infraestructura Sanitaria:__ Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias. </p>
    
-</p>5. __Demanda de Vacunas:__ Promedio de 1.89 dosis administradas por persona, lo cual sugiere una demanda moderada a alta de vacunas. </p>
+</p> - __Demanda de Vacunas:__ Promedio de 1.89 dosis administradas por persona, lo cual sugiere una demanda moderada a alta de vacunas. </p>
    
-</p>7. __Mortalidad:__ Tiene un alto ratio de mortalidad y puede requerir intervenciones adicionales teniendo un impacto significativo. </p>
+</p> - __Mortalidad:__ Tiene un alto ratio de mortalidad y puede requerir intervenciones adicionales teniendo un impacto significativo. </p>
    
-</p>9. __Factores De Riesgo:__ México tiene una prevalencia significativa de diabetes y fumadores. Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.</p>
+</p> - __Factores De Riesgo:__ México tiene una prevalencia significativa de diabetes y fumadores. Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.</p>
 
-</p>11. __Densidad y Habitantes:__ Gran población urbana facilita la logística de distribución eficiente de suministros médicos y vacunas.</p>
+</p> - __Densidad y Habitantes:__ Gran población urbana facilita la logística de distribución eficiente de suministros médicos y vacunas.</p>
 
 ## 🌍 Recomendaciones para la *Expansión en México*
 
