@@ -151,17 +151,18 @@ Aquí puede ingresar a ver el [Dashboard_Biogenesys](https://github.com/MFlorenc
 
 ## 💉 Insights sobre la oportunidad de *Expansión en México*:
 
-<p> - __Factores Socioeconómicos:__ Con un GDP per cápita de 9.900 USD, México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria. Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.</p>
+<p> 
+- Factores Socioeconómicos: Con un GDP per cápita de 9.900 USD, México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria. Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.
    
-</p> - __Infraestructura Sanitaria:__ Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias. </p>
+- Infraestructura Sanitaria: Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias.
    
-</p> - __Demanda de Vacunas:__ Promedio de 1.89 dosis administradas por persona, lo cual sugiere una demanda moderada a alta de vacunas. </p>
-   
-</p> - __Mortalidad:__ Tiene un alto ratio de mortalidad y puede requerir intervenciones adicionales teniendo un impacto significativo. </p>
-   
-</p> - __Factores De Riesgo:__ México tiene una prevalencia significativa de diabetes y fumadores. Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.</p>
+- Demanda de Vacunas: Promedio de 1.89 dosis administradas por persona, lo cual sugiere una demanda moderada a alta de vacunas. 
 
-</p> - __Densidad y Habitantes:__ Gran población urbana facilita la logística de distribución eficiente de suministros médicos y vacunas.</p>
+- Mortalidad: Tiene un alto ratio de mortalidad y puede requerir intervenciones adicionales teniendo un impacto significativo. 
+   
+- Factores De Riesgo: México tiene una prevalencia significativa de diabetes y fumadores. Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.
+
+- Densidad y Habitantes: Gran población urbana facilita la logística de distribución eficiente de suministros médicos y vacunas. </p>
 
 ## 🌍 Recomendaciones para la *Expansión en México*
 
