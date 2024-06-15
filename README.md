@@ -1,9 +1,11 @@
 <center>
-  <h1> 🌐Expansión de Laboratorios y Centros de Vacunación - Farmaceutica Biogenesys 🔬 </h1>
+<h1> 🌐Expansión de Laboratorios y Centros de Vacunación 
+Farmaceutica Biogenesys 🔬 </h1>
 </center>
 
 ## 🎯Objetivo: 
-Identificar ubicaciones estratégicas óptimas para la expansión de laboratorios y centros de vacunación a la Farmacéutica Biogenesys en Argentina, Chile, Colombia, México, Perú y Brasil. Basado en la incidencia de COVID-19.
+
+<p> Identificar ubicaciones estratégicas óptimas para la expansión de laboratorios y centros de vacunación a la Farmacéutica Biogenesys en Argentina, Chile, Colombia, México, Perú y Brasil. Basado en la incidencia de COVID-19. </p>
 
 ## 💻**Descarga e Instalación de Programas para abrir los archivos del proyecto**  
 
