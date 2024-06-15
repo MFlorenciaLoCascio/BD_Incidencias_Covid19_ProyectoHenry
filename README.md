@@ -1,5 +1,6 @@
-# 🌐 **Expansión de Laboratorios y Centros de Vacunación 
-# Farmaceutica Biogenesys** 
+<center>
+  <h1> 🌐Expansión de Laboratorios y Centros de Vacunación - Farmaceutica Biogenesys 🔬 </h1>
+</center>
 
 ## 🎯Objetivo: 
 Identificar ubicaciones estratégicas óptimas para la expansión de laboratorios y centros de vacunación a la Farmacéutica Biogenesys en Argentina, Chile, Colombia, México, Perú y Brasil. Basado en la incidencia de COVID-19.
@@ -9,13 +10,7 @@ Identificar ubicaciones estratégicas óptimas para la expansión de laboratorio
 1. Visual Studio Code:
 2. Python
 3. Librerias: NumPy, Pandas, Matplotlib, Seaborn, Geopandas
-`import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import geopandas as gpd`
-
-5. Power Bi Desktop
+4. Power Bi Desktop
 
 __Debe descargarse los siguientes arhivos para poder ejecutar los scripts en pyhton:__
   
@@ -30,12 +25,17 @@ _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorencia
 
 ### 1. Carga y transformación de datos 
 
-+ Extracción de base de datos _Dataset original_
++ Extracción de base de datos `data_latinoamerica`
   
 + Importar librerias dentro Jupyter Notebook
-  + Numpy y Pandas
- 
-+ Carga del dataset original
+
+```
+import numpy as np
+import pandas as pd
+```
+  
++ Carga del dataset original *data_latinoamerica*
+`data = pd.read_csv('data_latinoamerica.csv')`
 
 + Exploración de datos: para obtener información inicial
   + visualizar la cantidad de registros y columnas
@@ -54,30 +54,46 @@ _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorencia
   + columnasconvalores nulos los lleve a 0
   + cambié un valor atípico con el valor más cercano a esa fecha
 
-+ Guardadodearchivo: DatosFinalesFiltradoNuevo
++ Guardadodearchivo: `DatosFinalesFiltradoNuevo`
 
 ### 2. Análisis Exploratorio y Visualización
 
 + Importarlibrerías:
-  + numpy,pandas,matplotlib y seaborn
-  + Cargadeldataset: en formato .CSV
-  + Visualizaciones de datos con matplotlib y seaborn
+
+```
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
++ Cargadeldataset: `DatosFinalesFiltradoNuevo.csv`
+  
++ Visualizaciones de datos con matplotlib y seaborn
 
 ### 3. EDA con Numpy y Pandas
 
 + Importarlibrerías:
-  + numpy, pandas, matplotlib, seaborn, geopandas
 
-+ Carga del dataset: DatosFinalesFiltradoNuevo
+```
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import geopandas as gpd
+```
+
++ Carga del dataset:  `DatosFinalesFiltradoNuevo.csv`
   
 + Análisis exploratorio detallado utilizando técnicas avanzadas con Numpy y Pandas
 
 ### **Power Bi*
 
-1. Importar archivo DatosFinalesFiltradoNuevo 
-2. Crear medidas DAX
-3. Diseñar un dashboard interactivo aplicando storytelling
-4. Obtener insights significativos para determinar la ubicación óptima de expansión.
+1. Importar archivo `DatosFinalesFiltradoNuevo`
+2. Crear tabla calendario
+3. Desarrollar medidas DAX
+4. Diseñar un dashboard interactivo aplicando storytelling
+5. Obtener insights significativos para determinar la ubicación óptima de expansión de laboratorios y centros de vacunación
 
 
 ## 📊 EDA e Insights Generales:
@@ -126,9 +142,42 @@ _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorencia
 
 ## 📈 Conclusiones sobre el Objetivo:
 
-## Insights sobre la oportunidad de *Expansión en México*:
+ Considerando aspectos críticos como la demanda de vacunas, infraestructura sanitaria, factores socioeconómicos y factores de riesgo, México es el país adecuado para que Biogenesys pueda establecer una 
+ resencia sólida para la expansión de laboratorios y centros de vacunación, especialmente en áreas urbanas densamente pobladas. 
+ 
+ Requiere inversiones en campañas de vacunación y mejoras en infraestructura médica para combatir el COVID-19 o futuras enfermedades que aseguran una demanda constante de servicios de salud.
 
-## Recomendaciones para la *Expansión en México*
+## 💉 Insights sobre la oportunidad de *Expansión en México*:
+
+1. **Factores Socioeconómicos:** Con un GDP per cápita de 9.900 USD, __México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria.__ Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.
+   
+3. **Infraestructura Sanitaria:** Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la __necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias.__
+   
+5. **Demanda de Vacunas:** Promedio de 1.89 dosis administradas por persona, lo cual sugiere una __demanda moderada a alta de vacunas.__
+   
+7. **Mortalidad:** Tiene un alto ratio de mortalidad y puede __requerir intervenciones adicionales teniendo un impacto significativo.__
+   
+9. **Factores De Riesgo:** México tiene una __prevalencia significativa de diabetes y fumadores.__ Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.
+
+11. **Densidad y Habitantes: Gran población urbana __facilita la logística de distribución__ eficiente de suministros médicos y vacunas.
+
+## 🌍 Recomendaciones para la *Expansión en México*
+
+1. **Incrementar Cobertura de Vacunación:**
+- Implementar campañas de concientización para aumentar la aceptación de vacunas.
+- Establecer más centros de vacunación en áreas urbanas densamente pobladas.
+
+3. **Mejorar Infraestructura Sanitaria:**
+- Aumentar la cantidad de médicos mediante programas de formación y contratación.
+- Mejorar la infraestructura de los centros de salud existentes.
+
+5. **Enfocar en Problemas de Salud Crónica:**
+- Desarrollar programas específicos para tratar y prevenir diabetes y reducir el tabaquismo.
+- Colaborar con organizaciones locales para implementar programas de salud comunitaria.
+
+6. **Optimizar la Logística de Distribución:**
+- Utilizar la alta densidad urbana facilitando la distribución eficiente de suministros
+ médicos y vacunas.
 
 ## 📝 Informe: 
 Aquí puede encontrar información más a detalle sobre el proyecto:
@@ -137,7 +186,20 @@ Aquí puede encontrar información más a detalle sobre el proyecto:
 
 ## ⚙️ Herramientas utilizadas:
 
-
++ Visual Studio Code
++ Python
++ Jupyter Notebook
++ NumPy
++ Pandas
++ Matplotlib
++ Seaborn
++ Power Bi
++ Power Query
++ DAX
++ Figma
++ Canva
++ Power Point
++ G. Docs
 
 
 
