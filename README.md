@@ -20,7 +20,7 @@ _Dataset normalizado_: [DatosFinalesFiltradoNuevo](https://github.com/MFlorencia
 
 ## 🗂️ Desarrollo del Proyecto
 
-### Python / Jupyter Notebook
+### 👉 Python / Jupyter Notebook
 
 [**Archivo Scripts de Python/JN**](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/Python_Biogenesys_Lo_Cascio_Maria_Florencia.ipynb)
 
@@ -88,7 +88,7 @@ import geopandas as gpd
   
 + Análisis exploratorio detallado utilizando técnicas avanzadas con Numpy y Pandas
 
-### *Power Bi*
+### 👉 *Power Bi*
 
 Aquí puede ingresar a ver el [Dashboard_Biogenesys](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/blob/main/Dashboard_Biogenesys_Lo_Cascio_Maria_Florencia.pbix)
 
@@ -150,17 +150,17 @@ Aquí puede ingresar a ver el [Dashboard_Biogenesys](https://github.com/MFlorenc
 
 ## 💉 Insights sobre la oportunidad de *Expansión en México*:
 
-<p>1. **Factores Socioeconómicos:** Con un GDP per cápita de 9.900 USD, __México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria.__ Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.
+<p>1. **Factores Socioeconómicos:** Con un GDP per cápita de 9.900 USD, __México tiene una economía suficientemente fuerte para soportar inversiones en infraestructura sanitaria.__ Permitiendo que una mayor proporción de la población tenga acceso a servicios de salud privados.</p>
    
-3. **Infraestructura Sanitaria:** Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la __necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias.__
+</p>3. **Infraestructura Sanitaria:** Tiene una proporción intermedia de médicos y enfermeras por cada 1,000 habitantes. Esto indica que hay infraestructura sanitaria disponible, pero también la __necesidad de reforzar estos recursos para mejorar la capacidad de respuesta ante emergencias.__</p>
    
-5. **Demanda de Vacunas:** Promedio de 1.89 dosis administradas por persona, lo cual sugiere una __demanda moderada a alta de vacunas.__
+</p>5. **Demanda de Vacunas:** Promedio de 1.89 dosis administradas por persona, lo cual sugiere una __demanda moderada a alta de vacunas.__</p>
    
-7. **Mortalidad:** Tiene un alto ratio de mortalidad y puede __requerir intervenciones adicionales teniendo un impacto significativo.__
+</p>7. **Mortalidad:** Tiene un alto ratio de mortalidad y puede __requerir intervenciones adicionales teniendo un impacto significativo.__</p>
    
-9. **Factores De Riesgo:** México tiene una __prevalencia significativa de diabetes y fumadores.__ Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.
+</p>9. **Factores De Riesgo:** México tiene una __prevalencia significativa de diabetes y fumadores.__ Estos factores de riesgo aumentan la demanda de servicios de salud especializados, incluidos los laboratorios y centros de vacunación.</p>
 
-11. **Densidad y Habitantes:** Gran población urbana __facilita la logística de distribución__ eficiente de suministros médicos y vacunas.</p>
+</p>11. **Densidad y Habitantes:** Gran población urbana __facilita la logística de distribución__ eficiente de suministros médicos y vacunas.</p>
 
 ## 🌍 Recomendaciones para la *Expansión en México*
 
