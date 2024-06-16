@@ -11,15 +11,17 @@
 - VISUAL STUDIO CODE
 1. [Descarga Visual Studio Code](https://code.visualstudio.com/)
    
-3. [Video Instalación Visual Studio Code](https://www.youtube.com/watch?v=8dUEhG45f9M)
+2. [Video Instalación Visual Studio Code](https://www.youtube.com/watch?v=8dUEhG45f9M)
 
 - PYTHON
 1. [Descarga Python](https://www.python.org/)
    
-3. [Video Instalación Python](https://www.youtube.com/watch?v=i6j8jT_OdEU)
+2. [Video Instalación Python](https://www.youtube.com/watch?v=i6j8jT_OdEU)
 
 - POWER BI DESKTOP
-[Descarga de Power Bi Desktop](https://www.microsoft.com/es-es/download/details.aspx?id=58494)
+1. [Descarga de Power Bi Desktop](https://www.microsoft.com/es-es/download/details.aspx?id=58494)
+
+2. [Video Instalación Power Bi Desktop](https://www.youtube.com/watch?v=P-Ic_pKlLUA)
 
 __Debe descargarse los siguientes arhivos para poder ejecutar los scripts en pyhton:__
   
