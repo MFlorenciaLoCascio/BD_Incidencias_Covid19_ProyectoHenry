@@ -99,6 +99,18 @@ Aquí puede ingresar a ver el [Dashboard_Biogenesys](https://github.com/MFlorenc
 4. Diseñar un dashboard interactivo aplicando storytelling
 5. Obtener insights significativos para determinar la ubicación óptima de expansión de laboratorios y centros de vacunación para la farmaceutica
 
+### EXPANSIÓN DE COVID Y VACUNACIÓN
+
+![Expansión de Covid y Vacunación](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/assets/139195222/f9524024-75a8-4ae6-ab00-610f5ec78f5b)
+
+### POBLACIÓN Y FACTORES DE RIESGO
+
+![Población y Factores de Riesgos](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/assets/139195222/031bef4d-f1a9-4aad-8816-6b3def603f71)
+
+### FACTORES SOCIOECONÓMICOS E INFRAESTRUCTURA
+
+![Factores Socioeconómicos e Infraestructura](https://github.com/MFlorenciaLoCascio/BD_Incidencias_Covid19_ProyectoHenry/assets/139195222/e5bcea72-f869-4978-aa03-13b9b181ee91)
+
 ## 📊 EDA e Insights Generales:
 
 ### 1- Chile:
